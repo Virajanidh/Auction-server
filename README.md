@@ -4,9 +4,9 @@ Auction server
 
 Group number  : 6
 
-Group Members : S.M.V. Dhanushka 			E/16/083
-				A.L.V.H. Dharmathilaka    	E/16/086
-				W.M.S.C. Dissanayaka 		E/16/087
+Group Members : S.M.V. Dhanushka 	        E/16/083
+		A.L.V.H. Dharmathilaka    	E/16/086		
+				
 
 *******************************************************************************************************
 
