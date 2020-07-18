@@ -38,6 +38,6 @@ Server can update the price of a stock item using the button **Change Current Pr
 ## Client GUI
 ![Client](https://github.com/viradhanus/Auction-server/blob/master/Images/Screenshot%20from%202020-07-13%2000-35-53.png "Client")
 
-##Stock Items
+## Stock Items
 ![Stock Items](https://github.com/viradhanus/Auction-server/blob/master/Images/Screenshot%20from%202020-07-13%2000-33-47.png "Stock Items")
 
