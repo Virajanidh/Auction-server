@@ -1,6 +1,6 @@
 
-#CO225:Software Construction (Project II: Group project)
-#Auction server
+# CO225:Software Construction (Project II: Group project)
+# Auction server
 
 Group number  : 6
 
@@ -10,7 +10,7 @@ This Auction server contains 15 (.java) files and excel file named "stocks".Serv
 compile: javac Server.java
 run    : java Server
 		
-##Clients
+## Clients
 
 Clients should be able to connect to the server using nc tool in linux by typing  <br/><br/>
 nc <hostname> 2000 in the terminal.
@@ -20,7 +20,7 @@ Then Client Gui will appear.Client can enter name,Symbol of security and bid val
 
 If client continuously bidding, defaulty suggested symbol is the previously bid symbol. But user can change it. <br/><br/>
 
-##Server
+## Server
 
 After compiling, the first Gui will appear. It contains <br/><br/>
  * the current price and symbol of 8 stock items(FB, VRTU, MSFT, GOOGL, YHOO, XLNX, TSLA and TXN).
@@ -32,10 +32,10 @@ Displayed 8 stock items can be considered as most preffered bid items but the en
 
 Server can update the price of a stock item using the button **Change Current Price**. All the variations including biddings of clients and price changes done by server is tracked in the **Offers varied with time** table with the time.<br/><br/>
 
-##Server GUI
+## Server GUI
 ![Server](https://github.com/viradhanus/Auction-server/blob/master/Images/Screenshot%20from%202020-07-13%2000-36-03.png "Server")
 
-##Client GUI
+## Client GUI
 ![Client](https://github.com/viradhanus/Auction-server/blob/master/Images/Screenshot%20from%202020-07-13%2000-35-53.png "Client")
 
 ##Stock Items
